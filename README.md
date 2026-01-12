@@ -1,4 +1,4 @@
-# Mutual Fund Recommendation System & Analytics 📊🤖
+# Mutual Fund Recommendation System & Analytics 📊
 
 > An end-to-end, data-driven mutual fund recommendation system built using statistical analysis and machine learning models, supported by business dashboards.
 
@@ -8,7 +8,7 @@ The project combines **Python (analytics + ML)**, **Excel (data validation)**, a
 
 ---
 
-## 🚀 Project Objective
+## Project Objective
 
 The primary goal of this project is to **recommend suitable mutual funds** based on:
 - Risk profile
